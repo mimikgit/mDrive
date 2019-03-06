@@ -1,4 +1,4 @@
-# Objectives
+# mDrive
 
 This example covers how to install and deploy the mDrive microservice to the edgeSDK runtime. The mimik team created this microservice for mimik access to enable file sharing among edge devices. These are the main functionalities:
 
@@ -8,7 +8,9 @@ This example covers how to install and deploy the mDrive microservice to the edg
 
 3. Device also has option of deleting share files and add authentication keys to secure the access
 
-## Run example microservice
+## Deploy to edgeSDK
+
+For latest update: https://developer.mimik.com/docs/microservices/deploy
 
 1. Install the drive-v1.tar image on edgeSDK mCM container using bearer token 
 
